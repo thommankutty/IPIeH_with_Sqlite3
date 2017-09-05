@@ -1,0 +1,31 @@
+LOT SUMMARY [1 HOUR]
+--------------------
+ Machine ID  IPIe 5
+ Start Date  07-04-2017
+ Start Time  15:00:12
+ End Time    16:00:12
+
+------------------------------------------------------------------------------------------------------
+Inspection Summary        TOTAL       TRACK 1       TRACK 2       TRACK 3       TRACK 4       TRACK 5
+------------------------------------------------------------------------------------------------------
+ Units Inspected          5591          1163          1075          1157          1125          1071
+ Units Passed             5573          1159          1072          1154          1124          1064
+ Units Yield              99.7          99.7          99.8          99.8         100.0          99.4
+ Units Failed               18             4             3             3             1             7
+
+ Saline Shortage             0             0             0             0             0             0
+ Saline In-Range             0             0             0             0             0             0
+ Saline Excess               0             0             0             0             0             0
+
+Defects
+-------
+ Spot                        4             1             1             0             0             2
+ Non-Circular                2             0             0             0             0             2
+ Tear Lens                   3             1             0             1             1             0
+ Gap Lens                    7             1             2             1             0             3
+ No Lens                     0             0             0             0             0             0
+ No Saline                   0             0             0             0             0             0
+ Inner Tear                  1             1             0             0             0             0
+
+------------------------------------------------------------------------------------------------------
+
